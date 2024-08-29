@@ -1,0 +1,17 @@
+/* Seletores
+	*classe(.)
+	*Id (#)
+	*p, h1
+*/
+
+.primeira-classe {
+    background-color: #ffffff;
+    font-size: 15px;
+    font-weight: 300px;
+}
+
+#primeiro-id {
+    background-color: #234;
+    font-size: 15px;
+    font-weight: 300px;
+}
